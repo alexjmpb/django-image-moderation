@@ -1,0 +1,6 @@
+.env
+__pycache__/
+db.sqlite3
+media
+dist
+django_image_moderation.egg-info
